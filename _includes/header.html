@@ -1,9 +1,9 @@
 <header class="site-header">
-
+  <div class="pic_logo"><img src="/assets/img/Plogo.png" alt=""><br><br></div>
   <h2 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h2>
 
   <div class="nav">
-    
+
     <label for="menu-toggle" class="menu-icon">
         <!--div data-icon="ei-navicon"></div-->
         <svg viewBox="0 0 18 15">
@@ -18,11 +18,22 @@
       <nav>
         <ul class="page-link">
           <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
-          <li><a href="{{ "/archive" | prepend: site.baseurl }}">Posts</a></li>
           <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
+          <li><a href="{{ "/archive" | prepend: site.baseurl }}">Archive</a></li>
+          <li><a href="{{ "/designs"| prepend: site.baseurl }}">Designs</a></li>
           <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
         </ul>
       </nav>
+    </div>
+
+    <div class="PC_boxes">
+      <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
+      <h5>Fellow Travellers</h5>
+        <li>Xenogothic</li>
+        <li>Blog 2</li>
+        <li>Blog 3</li>
+
+      <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
     </div>
 
   </div>

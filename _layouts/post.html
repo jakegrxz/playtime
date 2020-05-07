@@ -3,23 +3,35 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="artilce_header">
-    <h1 class="artilce_title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="artilce_meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  <!--
+    want to add << PREV POST | NEXT POST >> button here - JR
+  -->
+
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}} </a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+
+<br>
+
+  <header class="article_header">
+    <h1 class="article_title" itemprop="name headline" style="text-align:center;margin-right:10%;margin-left:10%">{{ page.title }}</h1>
   </header>
 
   <div class="article-content" itemprop="articleBody">
     {{ page.content }}
   </div>
 
+<br>
+
   <footer class="article-footer">
-
-  {% include share.html %}
-
-  <hr/>
-
-  {% include author.html %}
-
+    <p class="article_meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">posted on {{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <!-- {% include share.html %} -->
+  <!-- {% include author.html %} -->
   </footer>
 
   {% include dq.html %}

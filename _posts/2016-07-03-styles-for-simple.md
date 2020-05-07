@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Styles at a glance
-category: jekyll 
-description: Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
+title:  "Styles at a glance"
+category: archive
+description:
 ---
 
 Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
 
 First of all, let's have a glance at the basic styles: [link](http://github.com/wild-flame/jekyll-simple), **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
+
+You can escape particular special characters by adding a \ backslash in front. So if I wanted an asterisk i would type ```\*``` = \*
 
 <!--description-->
 
@@ -37,7 +39,11 @@ First of all, let's have a glance at the basic styles: [link](http://github.com/
 
 ### Blockquote:
 
+Here I am writing my very incisive blog post. I am now going to quote someone:
+
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+As we can see, this does X blah Y, and demonstrates that capitalism is bad. As we can see, this does X blah Y, and demonstrates that capitalism is bad.As we can see, this does X blah Y, and demonstrates that capitalism is bad.As we can see, this does X blah Y, and demonstrates that capitalism is bad.
 
 ### [BASSCSS](http://www.basscss.com/) colors:
 
@@ -62,6 +68,12 @@ First of all, let's have a glance at the basic styles: [link](http://github.com/
 ### Horizontal rule:
 
 -----------------------
+
+### Testing centring text
+
+{:center: style="text-align: center"}
+CENTRED TEXT?
+{:center}
 
 ### Image:
 

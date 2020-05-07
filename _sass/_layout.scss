@@ -14,6 +14,23 @@ body {
     box-sizing: border-box;
     height:auto;
     padding-bottom: 140px;/*等于或略大于footer的高度*/
+
+    a {
+      color: #FF69B4;
+    }
+
+    a:hover {
+      color: #FF69B4;
+    }
+}
+
+.site-topbar {
+  // @media (max-width: 780px) { INCLUDE IF WANT TO REMOVE ON MOBILE
+  //   display: none; }
+  // @media (min-width: 781px) {
+    display: block;
+    background-color: #FF69B4;
+    width: 100%;
 }
 
 .site-footer {
@@ -21,10 +38,9 @@ body {
   bottom: 0;
   padding-bottom: 0rem;
   width:100%;
-
-  /* footer style */    
+  /* footer style */
   color: #99999a;
-  background-color: #FAFAFB;
+  background-color: black;
 
   .left {
     a {
@@ -49,6 +65,26 @@ body {
   -ms-animation: blinking_underscore_frame 1.5s infinite ease;
   -o-animation: blinking_underscore_frame 1.5s infinite ease;
   animation: blinking_underscore_frame 1.5s infinite ease;
+}
+
+.pic_logo {
+  @media (max-width: 780px) {
+    display: none;
+  }
+  @media (min-width: 781px) {
+    display: inline;
+  }
+}
+
+.PC_boxes {
+  @media (max-width: 780px) {
+    display: none;
+  }
+  @media (min-width: 781px) {
+    display: inline;
+  }
+  font-family: 'Office Code Pro Light';
+  font-size: 1.2rem;
 }
 
 .logo {
@@ -119,7 +155,7 @@ body {
       border-bottom:1px solid #ddd;
     }
   }
-  
+
   #menu-toggle:checked+.site-nav {
     opacity: 1;
     height: auto;
@@ -167,6 +203,9 @@ input#menu-toggle {
 
 .site-header {
   text-align:right;
+  font-family: 'Office Code Pro Bold';
+  font-weight: normal;
+  font-style: normal;
   @include media-query($on-laptop){
     text-align: center;
     margin-bottom: 40px;
@@ -181,7 +220,7 @@ input#menu-toggle {
 }
 
 .post-list {
-  
+
 }
 
 .post_header {
@@ -190,6 +229,10 @@ input#menu-toggle {
 
 .post_title {
   margin-bottom:0.5rem;
+  font-family: 'Office Code Pro Medium';
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 0rem;
 }
 
 .post_date {
@@ -215,24 +258,45 @@ p.readmore {
 }
 
 .article_meta {
+  font-size: 13px;
+}
 
+.article_header {
+  max-width: 100%;
+}
+
+.article_title {
+  font-family: 'Office Code Pro Medium';
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 0rem;
 }
 
 .article-content a {
-  border-bottom:1px dotted red;
-  text-decoration:none;
+  /* text-decoration-line: underline;
+  text-decoration-style: solid; */
+  color: #FF69B4;
+  /* text-decoration:none; */
 }
 .article-content a:hover {
-  color:red;
-  border-bottom:1px dotted red;
+  /* text-decoration-line: underline;
+  text-decoration-style: solid; */
+  color: #FF69B4;
+  /* text-decoration: none;
+  /* border-bottom:1px dotted #FF69B4; */
+}
+.article-content a:visited {
+  /* text-decoration-line: underline;
+  text-decoration-style: solid;*/
+  color: #FF69B4;
 }
 
 .article-footer {
 
-  padding:2rem 0;
-  border-top:1px solid #ddd;
-  border-bottom:1px solid #ddd;
-
+  padding:1rem 1rem;
+  border-top:0.5px solid #ddd;
+  border-bottom:0.5px solid #ddd;
+  background-color: #292929;
   .share {
     text-align:center;
   }
@@ -258,6 +322,24 @@ p.readmore {
 
 .article-next {
 
+}
+
+.PageNavigation {
+  font-size: 12px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
 }
 
 /* author info */
@@ -329,7 +411,7 @@ body.custom-background {
 
 /* Archive page */
 
-.archive_list { 
+.archive_list {
   margin-left:5%;
   width:90%;
   margin-bottom:3rem;
@@ -355,7 +437,7 @@ div.post_title span.date {
 
 .pagination {
   width:50%;
-}  
+}
 
 .pagination.older-post{
   float: right;
