@@ -115,7 +115,6 @@ body {
     display: block;
     padding: 5px 0px 0px 0px;
 
-
     li {
       font-size:1.5rem;
       list-style:none;
@@ -235,9 +234,19 @@ input#menu-toggle {
   letter-spacing: 0rem;
 }
 
+.post_title_box {
+  display: block;
+  padding-bottom: 0.4rem;
+}
+
 .post_date {
   color:#888;
   font-size:1.4rem;
+}
+
+.post_date_box {
+  display: block;
+  padding-bottom: 0.7rem;
 }
 
 p.readmore {

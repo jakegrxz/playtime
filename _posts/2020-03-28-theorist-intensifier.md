@@ -5,7 +5,7 @@ category: archive
 description:
 ---
 {:center: style="text-align: center"}
-![](/assets/img/nairn/nairn1.jpg)
+![]({{ site.baseurl }}/assets/img/nairn/nairn1.jpg)
 {:center}
 
 As I mentioned over there, I have to thank the Twitter hivemind for turning me on to the excellent 1972 BBC series, Nairn Across Britain, which is on iPlayer here.
@@ -18,7 +18,7 @@ I had never heard of Nairn before this, but he comes across as immediately magne
 
 One's inclined to take this as a puffed up exaggeration thought up on the fly just to introduce the show - but Meades' characterisation of Nairn joyfully shines through within seconds of it beginning. Articulate yet down-earth, passionate yet analytically incisive, Nairn stands out as a shining beacon of the promise of criticism, whether architectural, aesthetic, literary, or political. Unlike the dominant subject of criticism today - the smug hipster - keen to distance themselves from their objects of critique through a sneering ironic detachment, Nairn is absolutely dedicated to getting as getting as close to the object of criticism as possible, to feel its fine textures in between his fingertips, up against his skin. The buildings and places Nairn visits in the show literally live and express themselves through him: Nairn as concrete's human avatar. (This is all made absolutely clear within minutes of the first episode, where Nairn caresses the brickwork of the Preston Guild Hall - screengrab of this below.)
 
-![](/assets/img/nairn/nairn11.jpg)
+![]({{ site.baseurl }}/assets/img/nairn/nairn11.jpg)
 
 Much like k-punk and the Ccru, Nairn evidently sees the role of the theorist or critic as being an intensifier. Nairn treats every building and place he visits as some vastly complex, intricate body that he is navigating; he makes every effort to be in the object he's critiquing, a part of it, letting it excite or dismay his body and his emotions. Far from seeing this as giving way to subjectivism or irrationalism and attempting to repress them, Nairn actively expresses and engages his emotions as absolutely rational, as absolutely indicative of some external cause: portals into the Outside. The result is joyful and energising, not dull and deadening like so much criticism<sup>1</sup>.
 
@@ -34,11 +34,11 @@ And that's another thing: Nairn's criticism is always driven not just by a desir
 
 This is also evident in the composition and filming of the show as much as Nairn's commentaries: the viewer is frequently treated to minutes-long, slow, indulgent takes of various architectural and natural landscapes, with the show utterly committed to truthfully transmitting the textural feel of a place, as if one was actually there, in it. Here's some nice shots I grabbed from the show, but they're no substitute for actually watching and absorbing it:
 
-![](/assets/img/nairn/nairn4.jpg)
+![]({{ site.baseurl }}/assets/img/nairn/nairn4.jpg)
 
-![](/assets/img/nairn/nairn5.jpg)
+![]({{ site.baseurl }}/assets/img/nairn/nairn5.jpg)
 
-![](/assets/img/nairn/nairn6.jpg)
+![]({{ site.baseurl }}/assets/img/nairn/nairn6.jpg)
 
 
 -------

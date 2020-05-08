@@ -40,72 +40,89 @@
 /* Office Code Pro */
 @font-face {
   font-family: "Office Code Pro Regular";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-Regular.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Regular.ttf') format('truetype'); /* Safari, Android, iOS*/
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-Regular.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Regular.ttf') format('truetype'); /* Safari, Android, iOS*/
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Office Code Pro Regular";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-RegularItalic.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-RegularItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-RegularItalic.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-RegularItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
-  font-family: "Office Code Pro Light";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-Light.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Light.ttf') format('truetype'); /* Safari, Android, iOS*/
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Office Code Pro Light";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-LightItalic.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-LightItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Office Code Pro Light";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-Medium.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Medium.ttf') format('truetype'); /* Safari, Android, iOS*/
+  font-family: "Office Code Pro Regular";
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-Bold.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Bold.ttf') format('truetype'); /* Safari, Android, iOS*/
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Office Code Pro Light";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-MediumItalic.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-MediumItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
+  font-family: "Office Code Pro Regular";
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-BoldItalic.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-BoldItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
   font-weight: bold;
   font-style: italic;
 }
+
 
 @font-face {
   font-family: "Office Code Pro Bold";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-Bold.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Bold.ttf') format('truetype'); /* Safari, Android, iOS*/
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-Bold.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Bold.ttf') format('truetype'); /* Safari, Android, iOS*/
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Office Code Pro Bold";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-BoldItalic.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-BoldItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-BoldItalic.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-BoldItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Office Code Pro Light";
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-Light.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Light.ttf') format('truetype'); /* Safari, Android, iOS*/
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Office Code Pro Light";
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-LightItalic.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-LightItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Office Code Pro Light";
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-Medium.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Medium.ttf') format('truetype'); /* Safari, Android, iOS*/
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Office Code Pro Light";
+  src: url('..assets/fonts/OfficeCodePro/OfficeCodePro-MediumItalic.woff') format('woff'); /* Modern Browsers */
+  src: url('..assets/fonts/OfficeCodePro/TTF/OfficeCodePro-MediumItalic.ttf') format('truetype'); /* Safari, Android, iOS*/
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Office Code Pro Medium";
-  src: url('/assets/fonts/OfficeCodePro/OfficeCodePro-Medium.woff') format('woff'); /* Modern Browsers */
-  src: url('/assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Medium.ttf') format('truetype'); /* Safari, Android, iOS*/
+  src: url('../assets/fonts/OfficeCodePro/OfficeCodePro-Medium.woff') format('woff'); /* Modern Browsers */
+  src: url('../assets/fonts/OfficeCodePro/TTF/OfficeCodePro-Medium.ttf') format('truetype'); /* Safari, Android, iOS*/
   font-weight: normal;
   font-style: normal;
 }
@@ -114,8 +131,8 @@
 
 @font-face {
   font-family: "IBM Plex Sans";
-  src: url('/assets/fonts/IBM-Plex/IBM-Plex-Sans/fonts/complete/ttf/IBMPlexSans-Text.ttf') format('truetype');
-  src: url('/assets/fonts/IBM-Plex/IBM-Plex-Sans/fonts/complete/woff/IBMPlexSans-Text.woff') format('woff');
+  src: url('../assets/fonts/IBM-Plex/IBM-Plex-Sans/fonts/complete/ttf/IBMPlexSans-Text.ttf') format('truetype');
+  src: url('../assets/fonts/IBM-Plex/IBM-Plex-Sans/fonts/complete/woff/IBMPlexSans-Text.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -227,7 +244,7 @@ body {
   /* font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; */
   /* font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   /* font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei UI",sans-serif; */
-  font-family: "Office Code Pro Light", sans-serif;
+  font-family: "Office Code Pro Regular", Courier, monospace;
   letter-spacing: -0.01rem;
 }
 

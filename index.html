@@ -10,8 +10,8 @@ title: PLAYTIME
 
     <article class="post_card post">
       <header class="post_header">
-        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
-        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+        <div class="post_date_box"><time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time></div>
+        <div class="post_date_box"><h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2></div>
       </header>
       <div class="post_excerpt">
         <p>
