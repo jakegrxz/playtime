@@ -4,7 +4,7 @@ title: Designs
 permalink: /designs/
 ---
 
-I occasionally do graphic design and video editing work upon request (and sometimes just to make memes), and can use Photoshop, Illustrator, and InDesign fluently. Contact me if you'd like me to do some work for you,and hopefully we can work something out!
+I occasionally do graphic design and video editing work upon request (and sometimes just to make memes), and can use Photoshop, Illustrator, and InDesign fluently. Contact me if you'd like me to do some work for you, and hopefully we can work something out!
 
 <br />
 **Fck Govt Fck Boris**
