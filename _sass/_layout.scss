@@ -83,17 +83,24 @@ body {
   @media (min-width: 781px) {
     display: inline;
   }
-  font-family: 'Office Code Pro Light';
-  font-size: 1.2rem;
+  .PC_boxes_text {
+    font-weight: 400;
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+    text-align:right;
+    margin-left: 27%;
+  }
 }
 
 .logo {
+  color: #FFFFFF;
   margin-bottom:12.5px;
   font-weight:$font-weight-bold;
 }
 .logo a {
-  -webkit-transition:.4s;
-  transition:.4s;
+  color: #FFFFFF;
+  // -webkit-transition:.4s;
+  // transition:.4s;
 }
 
 .logo a:hover {
@@ -162,6 +169,10 @@ body {
   }
 }
 
+.page-link {
+    font-family: "Office Code Pro Bold";
+}
+
 input#menu-toggle {
   display:none;
 }
@@ -202,8 +213,8 @@ input#menu-toggle {
 
 .site-header {
   text-align:right;
-  font-family: 'Office Code Pro Bold';
-  font-weight: normal;
+  font-family: 'Work Sans';
+  font-weight: 600;
   font-style: normal;
   @include media-query($on-laptop){
     text-align: center;

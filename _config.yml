@@ -6,15 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: PLAYTIME
+title: __underscore # think about this
+author: underscore
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/PLAYTIME" # the subpath of your site, e.g. /blog
+  Theorising between the lines.
+baseurl: "/underscore" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: anarchoccruism
+twitter_username: anarchoccruism # keep in mind this could change
 github_username:
 
 # Build settings
@@ -29,7 +28,3 @@ disqus_shortname:
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
-
-# This will require each of these plugins automatically.
-# plugins:
-#   - jekyll-twitter-plugin

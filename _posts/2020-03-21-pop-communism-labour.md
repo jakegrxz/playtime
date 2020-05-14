@@ -2,15 +2,18 @@
 layout: post
 title:  "For a Pop Communism: Notes on the Labour Leadership Contest"
 category: archive
-description: What is Pop? Or equivalently, what is the popular?
+description:
+summary:
 ---
 {:center: style="text-align: center"}
-[![](https://1.bp.blogspot.com/-3ZuJddWf2VQ/XnZLy4OGSeI/AAAAAAAAA8o/RI_Mx8ZpaNM1rHE2-wVqxKBGZJI6eVr8QCLcBGAsYHQ/s320/pop%2Blaboru%2Bpiece.jpg)](https://1.bp.blogspot.com/-3ZuJddWf2VQ/XnZLy4OGSeI/AAAAAAAAA8o/RI_Mx8ZpaNM1rHE2-wVqxKBGZJI6eVr8QCLcBGAsYHQ/s1600/pop%2Blaboru%2Bpiece.jpg)
+![]({{ site.baseurl }}/assets/img/pop_labour_piece.jpg)
 {:center}
 
 What is Pop? Or equivalently, what is the popular? This is the question Simon Reynold's book *Rip It Up and Start Again* forces us to confront, particularly towards the middle of the book, where the focus pivots from post-punk to early 80s New Pop: the moment many post-punk artists such as Scritti Politti and The Human League get tired of post-punk's puritanical commitment to fringe experimentalism and turn their sights to the mainstream, the popular. What's valuable about Reynolds account here is that it gives us the perspective of approaching Pop *from the outside*: we are introduced to a rag-tag clan of artistic misfits who are desperately trying to crack the code of the popular, to break into the Top 40 and become stars, as if it were some alien language beamed in from another galaxy. It is these people, those who consciously have to crack and break into it, who really understand Pop, rather than those who have unconsciously been interpellated or conditioned by it (such as the "popular" kids at school).
 
 This is because the popular -- Pop -- has very little to do with what "is" popular, statistically and numerically. Pop is not simply a kind of molar statistical aggregate, a name for a thing lots of people know of or do. Commuting to work -- to conjure up the most banal example I can -- is something millions of people do, but one would really be stretching to call commuting "popular", or "Pop". It's part of the grey background of everyday life: precisely the thing that Pop strives to stand out against and rupture. Pop needs to be a spectacle, a concentrated singularity, quite literally *the centre* of attention, in order to exist. Pop is a centralisation or it is nothing.
+
+<!--description-->
 
 Of course, numbers matter. You can't attach the concept of Pop to something that literally zero people have heard of. Pop clearly has a direct relation to, and orientation towards, what is statistically and numerically eminent. Indeed, it *needs* this eminence, this large numerical infrastructure, to effect the rupture it desires, because the rupture is *in* this infrastructure.
 

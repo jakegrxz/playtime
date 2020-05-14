@@ -1,12 +1,12 @@
 ---
 layout: default
-title: PLAYTIME
+title: __underscore
 ---
 
 <div class="home">
   <div class="post-list">
 
-    {% for post in site.posts limit:5%}
+    {% for post in site.posts limit:6%}
 
     <article class="post_card post">
       <header class="post_header">
@@ -20,7 +20,7 @@ title: PLAYTIME
           {% else %}
           {{ post.excerpt }}
           {% endif %}
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> Read More »  </a>
         </p>
       </div>
       <footer class="post_meta">

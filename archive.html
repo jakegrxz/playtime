@@ -12,11 +12,25 @@ title: Archive
       <h2>{{ category | first }}</h2>
     </div>
     {% for post in category.last %}
+      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+      {% if forloop.first %}
+        <h3 id="{{ this_year }}-ref" style="margin-bottom: 0.5rem">{{this_year}}</h3>
+      {% endif %}
 
       <div class="post_title">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
         <span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
       </div>
+
+      {% if forloop.last %}
+      {% else %}
+          {% if this_year != next_year %}
+          <br>
+          <h3 id="{{ next_year }}-ref" style="margin-bottom: 0.5rem">{{next_year}}</h3>
+          {% endif %}
+      {% endif %}
 
     {% endfor %}
 

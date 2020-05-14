@@ -1,5 +1,5 @@
 <header class="site-header">
-  <div class="pic_logo"><img src="assets/img/Plogo.png" alt=""><br><br></div>
+  <div class="pic_logo"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/img/Ulogo_pink2.png" style="max-width:60%;" alt=""><br><br></div>
   <h2 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h2>
 
   <div class="nav">
@@ -17,10 +17,11 @@
     <div class="site-nav">
       <nav>
         <ul class="page-link">
-          <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
           <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
           <li><a href="{{ "/archive" | prepend: site.baseurl }}">Archive</a></li>
           <li><a href="{{ "/designs"| prepend: site.baseurl }}">Designs</a></li>
+          <li><a href="{{ "/support"| prepend: site.baseurl }}">Support</a></li>
+          <li><a href="{{ "/links"| prepend: site.baseurl }}">Links</a></li>
           <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
         </ul>
       </nav>
@@ -28,11 +29,10 @@
 
     <div class="PC_boxes">
       <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
-      <h5>Fellow Travellers</h5>
-        <li>Xenogothic</li>
-        <li>Blog 2</li>
-        <li>Blog 3</li>
-
+      <div class="PC_boxes_text"> Click here to follow this blog and receive notifications of new posts by email.</div>
+      <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
+      <h5 style="text-align:right">Support</h5>
+      <div class="PC_boxes_text">All this writing is done for free. If you like the blog, please consider <a href="https://ko-fi.com/jakeunderscore">buying me a coffee</a> or donating. It's massively appreciated! </div>
       <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
     </div>
 

@@ -5,7 +5,7 @@ category: archive
 description:
 ---
 {:center: style="text-align: center"}
-[![](https://1.bp.blogspot.com/-PuvXeuZ0IkU/XelnGDJoAxI/AAAAAAAAA58/b6nE0fKlndID6O6U0Dvgf50awf0bSfOoACLcBGAsYHQ/s400/banner.jpg)](https://1.bp.blogspot.com/-PuvXeuZ0IkU/XelnGDJoAxI/AAAAAAAAA58/b6nE0fKlndID6O6U0Dvgf50awf0bSfOoACLcBGAsYHQ/s1600/banner.jpg)
+![]({{ site.baseurl }}/assets/img/moretolife.jpg)
 {:center}
 
 It's been incredibly humbling over the past few weeks to see people value, share, and stick up [the election posters](https://twitter.com/jakegrxz/status/1194666898484539392) I designed in a spur of the moment one evening, as pictured above. While I of course designed them to go viral, I never actually expected it to happen, let alone become the inspiration for [a massive banner made by Manchester Momentum](https://twitter.com/McrMomentum/status/1197638741214580737) and cited in a [recent VICE article](https://www.vice.com/en_uk/article/pa7ndk/what-voting-labour-in-2019-means) by Lauren O'Neill. (I'm yet to get over my excessive self-criticism which deems every piece of work I complete, including this very post, as irrelevant, useless, and a waste of everyone's time; I'm working on it.)
@@ -14,7 +14,7 @@ On an (im)personal level, the posters stemmed from a profound frustration and ex
 
 But, as hinted towards above with the "(im)personal", these struggles are anything but personal and individual. I know for a fact that other workers in the school share my malaise, as do workers in a whole host of sectors in the UK and across the world. "My" exhaustion, depression, anger, are anything but *mine*: instead they are the impersonal expressions and effects of capital as a virtual body that distributes labour and (re-)production in a specific kind of way. And if those feelings are impersonal, the working of some kind of social machine, then they immediately become a political issue, and the object of intervention for political propaganda and aesthetics. And given the fact there is currently a general election campaign ongoing, where the Labour Party (for all its massive faults and profound limitations) is standing on a programme that could drastically ameliorate these feelings of frustration and transfer power to the working-class in the UK, the posters were the natural outcome of this line of thinking.
 
-https://twitter.com/anarchoccruism/status/1194666898484539392 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">kinda wanted to make some election propaganda that didn&#39;t take the form of &quot;selling&quot; a policy but more targeted those gut feelings of exasperation, anger, and depression that result from the relentless grind of living under this system every single fucking day <a href="https://t.co/zlLfM4JaSO">pic.twitter.com/zlLfM4JaSO</a></p>&mdash; state sanctioned content account (@anarchoccruism) <a href="https://twitter.com/anarchoccruism/status/1194666898484539392?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Demand More**
 
@@ -32,7 +32,9 @@ Qualitatively, therefore, surpluses express a freedom and openness that comes th
 
 The "more" we demand thus reveals itself to be an *intensive*, not an extensive, quantity: an intensive *quantity* that, like temperature, cannot be increased or decreased without changing the very *quality* and character of the quantity. This sounds abstract but really is at work in many aspects of our everyday lives; it's why genuinely free time feels so qualitatively different from time spent at work, for example. Work is boring, repetitive, and homogenous, as the capitalist machine tightly and rigidly organises our time according to a specific code of operation that we are mere cogs of, making labour-time a dull extensive quantity... genuinely free time, meanwhile, is relaxing, adventurous, exciting, heterogenous, intensive. (This is what is what we mean when we say we don't want more *of the same*.)
 
-[![](https://1.bp.blogspot.com/-8oJGjYRe-4g/XelmEUW9TGI/AAAAAAAAA50/DWDSRiU_UjsMsMg8AS9eeL_MWkuS11i3QCLcBGAsYHQ/s400/chesire.jpg)](https://1.bp.blogspot.com/-8oJGjYRe-4g/XelmEUW9TGI/AAAAAAAAA50/DWDSRiU_UjsMsMg8AS9eeL_MWkuS11i3QCLcBGAsYHQ/s1600/chesire.jpg)
+{:center: style="text-align: center"}
+![]({{ site.baseurl }}/assets/img/moretolife2.jpg)
+{:center}
 
 Some of the posters put up by a friend & comrade in a marginal constituency in Chesire. 
 
