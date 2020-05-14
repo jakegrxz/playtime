@@ -10,7 +10,7 @@ However, if you have the means to, any financial support is massively appreciate
 
 You can donate in two ways:  
 
-1) Buy me a coffee through my ko-fi account  
-2) Donate whatever sum you want via PayPal.
+1) Buy me a coffee through my [ko-fi account](https://ko-fi.com/jakeunderscore)  
+2) Donate whatever sum you want via PayPal, [through this link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEMKEL9GFNVCE).
 
 Thanks!
