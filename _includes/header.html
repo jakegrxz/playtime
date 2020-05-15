@@ -29,7 +29,21 @@
 
     <div class="PC_boxes">
       <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
-      <div class="PC_boxes_text"> Click here to follow this blog and receive notifications of new posts by email.</div>
+
+       <!-- newsletter sign up -->
+
+      <div class="PC_boxes_text">Subscribe below to receive email updates whenever a new post is published.</div>
+      <br>
+      <div class="newsletter-container">
+          <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=underscoreblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+            <p><input class="newsletter-text" type="text" name="email"/></p>
+            <input type="hidden" value="underscoreblog" name="uri"/>
+            <input type="hidden" name="loc" value="en_US"/>
+            <input type="submit" id="newsletter-subscribe" value="Subscribe" /></form>
+      </div>
+
+      <!-- support box -->
+
       <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
       <h5 style="text-align:right">Support</h5>
       <div class="PC_boxes_text">All this writing is done for free. If you like the blog, please consider <a href="https://ko-fi.com/jakeunderscore">buying me a coffee</a> or <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEMKEL9GFNVCE">donating via PayPal</a>. It's massively appreciated! </div>

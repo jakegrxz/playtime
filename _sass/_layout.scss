@@ -90,6 +90,36 @@ body {
     text-align:right;
     margin-left: 27%;
   }
+
+  .newsletter-form {
+    display: inline-block;
+    margin-right: 0;
+  }
+
+  .newsletter-container {
+    margin-right: 0;
+  }
+
+  .newsletter-text {
+    margin-left: 15%;
+    color: #000000;
+    font-family: "Office Code Pro Light";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.1rem;
+    width: 85%;
+  }
+
+  #newsletter-subscribe {
+    color: #ffffff;
+    background-color: #1f1f1f;
+    width: 85%;
+    text-align: center;
+  }
+  #newsletter-subscribe:hover {
+    color: #c4c4c4;
+  }
+
 }
 
 .logo {
@@ -290,6 +320,14 @@ p.readmore {
   font-weight: normal;
   font-style: normal;
   letter-spacing: 0rem;
+  @media (max-width: 400px) {
+    margin-right:0;
+    margin-left:0;
+  }
+  @media (min-width: 401px) {
+    margin-right:10%;
+    margin-left:10%;
+  }
 }
 
 .article-content a {
