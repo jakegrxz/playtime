@@ -3,6 +3,8 @@ layout: post
 title:  "Theory-Fiction Radio"
 category: archive
 description:
+twitter-summary:
+image:
 ---
 {:center: style="text-align: center"}
 [![](https://1.bp.blogspot.com/-g6qVDPeUwt8/XZn10bmFMbI/AAAAAAAAA34/YXaJJFSn7ycZXCOku6eSzlWQn6QfUQJ9wCLcBGAsYHQ/s400/pic.jpg)](https://1.bp.blogspot.com/-g6qVDPeUwt8/XZn10bmFMbI/AAAAAAAAA34/YXaJJFSn7ycZXCOku6eSzlWQn6QfUQJ9wCLcBGAsYHQ/s1600/pic.jpg)

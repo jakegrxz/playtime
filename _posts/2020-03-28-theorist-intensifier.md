@@ -3,8 +3,10 @@ layout: post
 title:  "A Theorist Is An Intensifier: On Ian Nairn"
 category: archive
 description:
-summary: Who was Ian Nairn?
+twitter-summary: Who was Ian Nairn?
+image:
 ---
+
 {:center: style="text-align: center"}
 ![]({{ site.baseurl }}/assets/img/nairn/nairn1.jpg)
 {:center}

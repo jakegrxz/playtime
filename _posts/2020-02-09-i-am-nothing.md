@@ -3,6 +3,8 @@ layout: post
 title:  "I am nothing but I should be everything"
 category: archive
 description:
+twitter-summary:
+image:
 ---
 
 The Fisher-Function has routed itself so thoroughly in my neural circuitry that I am no longer just echoing and citing k-punk (at an almost embarrassingly high frequency) but *anticipating *its thoughts accurately. Upon reading some posts on Nietzsche in an attempt to help me get some bearings on the notorious philosopher, I came across this passage from [a 2006 post](http://k-punk.abstractdynamics.org/archives/007348.html) that spectacularly wires together Nietzsche and *Celebrity Big Brother*:

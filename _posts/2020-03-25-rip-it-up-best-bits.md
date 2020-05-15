@@ -3,7 +3,8 @@ layout: post
 title:  "Rip It Up and Start Again: The Best Bits"
 category: archive
 description:
-summary:
+twitter-summary:
+image:
 ---
 {:center: style="text-align: center"}
 ![]({{ site.baseurl }}/assets/img/ripitup.jpg)

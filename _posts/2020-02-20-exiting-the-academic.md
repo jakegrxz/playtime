@@ -3,6 +3,8 @@ layout: post
 title:  "Exiting The Academic: Thoughts On Objectivity and the Neurotic-Perfectionist Drive"
 category: archive
 description:
+twitter-summary:
+image:
 ---
 
 It's always about getting past that barrier: the psychosocial barrier of embarrassment, the fear of nakedly putting something "out there", of exposing oneself.

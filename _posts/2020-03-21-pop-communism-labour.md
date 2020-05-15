@@ -3,7 +3,8 @@ layout: post
 title:  "For a Pop Communism: Notes on the Labour Leadership Contest"
 category: archive
 description:
-summary:
+twitter-summary:
+image:
 ---
 {:center: style="text-align: center"}
 ![]({{ site.baseurl }}/assets/img/pop_labour_piece.jpg)

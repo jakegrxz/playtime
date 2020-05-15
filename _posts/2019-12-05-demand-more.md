@@ -3,6 +3,8 @@ layout: post
 title:  "Demand More: #GE2019 and the Politics of Surplus"
 category: archive
 description:
+twitter-summary:
+image:
 ---
 {:center: style="text-align: center"}
 ![]({{ site.baseurl }}/assets/img/moretolife.jpg)

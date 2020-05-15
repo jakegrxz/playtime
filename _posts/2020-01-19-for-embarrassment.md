@@ -3,6 +3,8 @@ layout: post
 title:  "For and Through Embarrassment"
 category: archive
 description:
+twitter-summary:
+image:
 ---
 {:center: style="text-align: center"}
 ![]({{ site.baseurl }}/assets/img/embarrassment.jpg)

@@ -7,34 +7,58 @@
   <div class="site-topbar" style="height:8px"></div>
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | underscore</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <!-- <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/hk-grotesk" type="text/css"/> -->
+  <meta name="author" content="Jake Underscore" />
 
   <!-- evil icon -->
-
   <link rel="stylesheet" href="{{ "/assets/evil-icons.min.css" | prepend:site.baseurl }}">
   <script src="{{"/assets/evil-icons.min.js" | prepend:site.baseurl }}"></script>
-
   <!-- todo: include this into main.css -->
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+  <!-- og social media meta -->
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:title"
+    content="{% if page.title %}
+      {{ page.title | strip_html | strip_newlines | truncate: 160 }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}">
+  <meta property="og:description"
+    content="{% if page.twitter-summary %}
+        {{ page.twitter-summary }}
+      {% elsif page.excerpt %}
+        {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
+      {% else %}
+        {{ site.description }}
+      {% endif %}">
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}" />
+  {% else %}
+    <meta property="og:image" content="https://www.underscoreblog.com/assets/img/Ulogo_pink2.png" />
+  {% endif %}
+
+  <!-- end og meta -->
+
   <!-- Twitter cards -->
   <meta name="twitter:site"    content="@{{ site.twitter_username }}">
-  <meta name="twitter:creator" content="@{{ page.author }}">
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
   <meta name="twitter:title"   content="{{ page.title }}">
 
-  {% if page.summary %}
-  <meta name="twitter:description" content="{{ page.summary }}">
+  {% if page.twitter-summary %}
+  <meta name="twitter:description" content="{{ page.twitter-summary }}">
+  {% elsif page.excerpt %}
+  <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
   {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
 
   {% if page.image %}
   <meta name="twitter:card"  content="summary_large_image">
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:image" content="{{ page.image }}">
   {% else %}
   <meta name="twitter:card"  content="summary">
   <meta name="twitter:image" content="{{ site.title_image }}">
