@@ -4,7 +4,7 @@ title:  "A Theorist Is An Intensifier: On Ian Nairn"
 category: archive
 description:
 twitter-summary: Who was Ian Nairn?
-image:
+image: "https://www.underscoreblog.com/assets/img/nairn/nairn1.jpg"
 ---
 
 {:center: style="text-align: center"}

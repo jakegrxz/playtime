@@ -4,7 +4,7 @@ title:  "Rip It Up and Start Again: The Best Bits"
 category: archive
 description:
 twitter-summary:
-image:
+image: "https://www.underscoreblog.com/assets/img/ripitup.jpg"
 ---
 {:center: style="text-align: center"}
 ![]({{ site.baseurl }}/assets/img/ripitup.jpg)
