@@ -13,4 +13,16 @@ You can donate in two ways:
 1) Buy me a coffee through my [ko-fi account](https://ko-fi.com/jakeunderscore)  
 2) Donate whatever sum you want via PayPal, [through this link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEMKEL9GFNVCE).
 
+<br>
+If you've enjoyed any of the posts on this blog, you can also **subscribe to the blog** and receive email alerts whenever there is a new post published. To do this, fill in your email below:
+
+<div class="newsletter-container">
+    <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=underscoreblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+      <p><input class="newsletter-text" style="color:#000000; width:300px" type="text" name="email"/></p>
+      <input type="hidden" value="underscoreblog" name="uri"/>
+      <input type="hidden" name="loc" value="en_US"/>
+      <input type="submit" id="newsletter-subscribe" value="Subscribe" /></form>
+</div>
+<br>
+
 Thanks!
