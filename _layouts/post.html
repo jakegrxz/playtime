@@ -33,6 +33,16 @@ layout: default
     <!-- {% include share.html %} -->
   <!-- {% include author.html %} -->
   </footer>
+  <br>
+  <p>If you enjoyed this post, subscribe below to receive email alerts of new posts: </p>
+
+  <div class="newsletter-container">
+      <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=underscoreblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+        <p><input class="newsletter-text" style="color:#000000; width:300px" type="text" name="email" placeholder="Email address"/></p>
+        <input type="hidden" value="underscoreblog" name="uri"/>
+        <input type="hidden" name="loc" value="en_US"/>
+        <input type="submit" id="newsletter-subscribe" value="Subscribe" /></form>
+  </div>
 
   {% include dq.html %}
 
