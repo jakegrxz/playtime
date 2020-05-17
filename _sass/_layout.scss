@@ -103,7 +103,7 @@ body {
   .newsletter-text {
     margin-left: 15%;
     color: #000000;
-    font-family: "Office Code Pro Light";
+    font-family: "Office Code Pro Light", Courier, monospace;
     font-weight: normal;
     font-style: normal;
     font-size: 1.1rem;
@@ -203,7 +203,7 @@ body {
 }
 
 .page-link {
-    font-family: "Office Code Pro Bold";
+    font-family: "Office Code Pro Bold", Courier, monospace;
 }
 
 input#menu-toggle {
@@ -272,7 +272,7 @@ input#menu-toggle {
 
 .post_title {
   margin-bottom:0.5rem;
-  font-family: 'Office Code Pro Medium';
+  font-family: 'Office Code Pro Medium', Courier, monospace;
   font-weight: normal;
   font-style: normal;
   letter-spacing: 0rem;
@@ -319,7 +319,7 @@ p.readmore {
 }
 
 .article_title {
-  font-family: 'Office Code Pro Medium';
+  font-family: 'Office Code Pro Medium', Courier, monospace;
   font-weight: normal;
   font-style: normal;
   letter-spacing: 0rem;
