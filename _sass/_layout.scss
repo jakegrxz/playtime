@@ -323,6 +323,10 @@ p.readmore {
   font-weight: normal;
   font-style: normal;
   letter-spacing: 0rem;
+  hyphens: none;
+  -moz-hyphens:none;
+  -ms-hyphens:none;
+  -webkit-hyphens: none;
   @media (max-width: 400px) {
     margin-right:0;
     margin-left:0;

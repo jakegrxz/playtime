@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   __underscore is the blog of Jake Underscore. Expect: philosophy, post-punk, popular culture, politics, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.underscoreblog.com" # the base hostname & protocol for your site
-twitter_username: anarchoccruism # keep in mind this could change
+twitter_username: jake_underscore
 github_username:
 title_image: "https://www.underscoreblog.com/assets/img/Ulogo_sq.jpg"
 
