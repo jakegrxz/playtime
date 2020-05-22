@@ -4,7 +4,8 @@ title: Links
 permalink: /links/
 ---
 
-The good bits of cyberspace. Email me if you think there's anything I should add. (underscore.uuu[at]gmail.com)
+The good bits of cyberspace. Email me if you think there's anything I should add.  
+(underscore.uuu[at]gmail.com)
 
 <br />
 **Blogs / newsletters**
@@ -18,6 +19,7 @@ The good bits of cyberspace. Email me if you think there's anything I should add
 * [Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/)
 * [blissblog](http://blissout.blogspot.com/)
 * [Another Subculture](http://anothersubculture.co.uk/) // *London's punk/DIY newsletter*
+* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) // *Great + accessible weekly newsletter on experimental and outsider music*
 * [Robin Mackay](http://readthis.wtf/)
 * [k-punk](http://k-punk.abstractdynamics.org/)
 
@@ -40,6 +42,7 @@ The good bits of cyberspace. Email me if you think there's anything I should add
 * [Threads Radio](https://threadsradio.com/)
 * [RTM](https://rtm.fm/)
 * [NTS](https://www.nts.live/)
+* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) (see above)
 
 **Misc**
 * [BOOKS Peckham](https://books-peckham.com/) ([insta](https://www.instagram.com/bookspeckham/))
