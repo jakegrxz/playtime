@@ -2,6 +2,7 @@
 layout: post
 title:  "Rip It Up and Start Again: The Best Bits"
 category: archive
+tags: music post-punk
 description:
 twitter-summary:
 image: "https://www.underscoreblog.com/assets/img/ripitup.jpg"

@@ -2,6 +2,7 @@
 layout: post
 title:  "Satire Won't Save You, Part 1: 'The Day Shall Come's Simulacrum"
 category: archive
+tags: film satire
 date: 2019-11-04 21:06:26 +0800
 description:
 twitter-summary:

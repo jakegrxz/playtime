@@ -2,6 +2,7 @@
 layout: post
 title:  "A Theorist Is An Intensifier: On Ian Nairn"
 category: archive
+tags: television criticism
 description:
 twitter-summary: Who was Ian Nairn?
 image: "https://www.underscoreblog.com/assets/img/nairn/nairn1.jpg"

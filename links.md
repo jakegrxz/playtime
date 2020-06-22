@@ -7,21 +7,26 @@ permalink: /links/
 The good bits of cyberspace. Email me if you think there's anything I should add.  
 (underscore.uuu[at]gmail.com)
 
-<br />
-**Blogs / newsletters**
+<br>
+**Blogs + newsletters**
 
 * [Xenogothic](https://xenogothic.com/)
 * [Feral Machines](http://feralmachin.es/)
 * [Abyss Diving](https://abyssdiving.wordpress.com/)
 * [Life Glug](https://lifeglug.wordpress.com/)
-* [roland barfs film diary](https://rolandbarfs.substack.com/)
-* [utopian drivel](https://huw.substack.com/)
+* [Aloysius](https://aloysiusplace.blogspot.com/)
+* [P s u e d o a n a l y s i s](https://psuedoanalysis.blogspot.com/)
 * [Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/)
 * [blissblog](http://blissout.blogspot.com/)
-* [Another Subculture](http://anothersubculture.co.uk/) // *London's punk/DIY newsletter*
-* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) // *Great + accessible weekly newsletter on experimental and outsider music*
 * [Robin Mackay](http://readthis.wtf/)
+* [0AZ](http://zinzrinz.blogspot.com/) *(featuring an excellent [cyber-theory library](http://zinzrinz.blogspot.com/p/library.html))*
 * [k-punk](http://k-punk.abstractdynamics.org/)
+
+* [Utopia Deferred](https://utopiadeferred.substack.com/)
+* [roland barfs film diary](https://rolandbarfs.substack.com/)
+* [utopian drivel](https://huw.substack.com/)
+* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) // *Great + accessible weekly newsletter on experimental and outsider music*
+* [Another Subculture](http://anothersubculture.co.uk/) // *London's punk/DIY newsletter*
 
 **Journals/Mags**
 * [The Quietus](https://thequietus.com/)

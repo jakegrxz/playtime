@@ -2,6 +2,7 @@
 layout: post
 title:  "Terre Thaemlitz's Cold Psychedelia"
 category: archive
+tags: music k-punk post-punk psychedelia
 description:
 twitter-summary: Where does coldness lead us, if not nothingness?
 image: "https://www.underscoreblog.com/assets/img/djsprinkles.jpg"

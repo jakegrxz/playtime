@@ -2,6 +2,7 @@
 layout: post
 title:  "For a Pop Communism: Notes on the Labour Leadership Contest"
 category: archive
+tags: politics labour Pop k-punk
 description:
 twitter-summary:
 image:

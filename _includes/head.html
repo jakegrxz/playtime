@@ -70,4 +70,9 @@
   <script async src="//static.getclicky.com/js"></script>
   <!-- end clicky -->
 
+  <!-- assigning site.tags -->
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+
 </head>

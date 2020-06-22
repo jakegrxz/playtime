@@ -2,6 +2,7 @@
 layout: post
 title:  "I am nothing but I should be everything"
 category: archive
+tags: music k-punk post-punk film
 description:
 twitter-summary:
 image:
@@ -19,6 +20,6 @@ This desire and striving for working-class excellence and achievement, explicitl
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" height="315" src="https://www.youtube.com/embed/OpTnE8DT9wU" width="560" ></iframe>
 <br/>
 
-The constant presence of class in Fisher's writings, both conceptually and above all else *affectively *(evident in the sharp wit and [resentment of the ruling class](http://k-punk.abstractdynamics.org/archives/009421.html) that permeated all his work), is one of my favourite things about it. Because, and I know this is not a particularly original insight to make, but class, any discussion or even just acknowledgement of class, is just completely and utterly *absent* from (British) popular culture right now. Not even Corbyn did much to shift this, perpetually opting for the moral critique of austerity capitalism (as indicated by his favourite soundbite, "grotesque levels of inequality") rather than an advocacy for class conflict (he/Labour very rarely used the words "working-class" or identified them as their driving subject).
+The constant presence of class in Fisher's writings, both conceptually and above all else *affectively* (evident in the sharp wit and [resentment of the ruling class](http://k-punk.abstractdynamics.org/archives/009421.html) that permeated all his work), is one of my favourite things about it. Because, and I know this is not a particularly original insight to make, but class, any discussion or even just acknowledgement of class, is just completely and utterly *absent* from (British) popular culture right now. Not even Corbyn did much to shift this, perpetually opting for the moral critique of austerity capitalism (as indicated by his favourite soundbite, "grotesque levels of inequality") rather than an advocacy for class conflict (he/Labour very rarely used the words "working-class" or identified them as their driving subject).
 
 This is why watching *Parasite* at the Barbican yesterday was, above all else, so completely *refreshing*. I haven't seen a film that depicted class conflict so brilliantly perhaps ever (disclaimer: I do not watch many films), and key to this was the kind of casual, humorous spearing of the upper class family in the film by the poor under-employed family who are the protagonists. This wasn't even class resentment, it surpassed and transcended resentment by taking it for granted (yeah, of course rich people are useless parasites, that's why we're mocking them) and using it as the foundations for a dark and ironic humour that repeatedly put the audience in stitches. We need more fictions like that in the realm of popular culture.

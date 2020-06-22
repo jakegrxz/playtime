@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="post-list">
+<h1>Posts on: {{ page.tag }}</h1>
+
+{% for post in site.tags[page.tag] %}
+  <!-- <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+  </li> -->
+
+  <article class="post_card post">
+    <header class="post_header">
+      <div class="post_date_box"><time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time></div>
+      <div class="post_date_box"><h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2></div>
+    </header>
+    <div class="post_excerpt">
+      <p>
+        {% if post.description %}
+        {{ post.description}}
+        {% else %}
+        {{ post.excerpt }}
+        {% endif %}
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> Read More »  </a>
+      </p>
+    </div>
+    <hr/>
+  </article>
+
+{% endfor %}
+
+</div>

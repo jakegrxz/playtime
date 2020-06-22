@@ -2,6 +2,7 @@
 layout: post
 title:  "The Horror of Labourism: Thinking at the limits of the party"
 category: archive
+tags: politics labour horror
 description:
 twitter-summary: How does a party deal with the sheer fact of its finitude, its limits, its exteriority? How do we navigate the ground between the political party and the non-party or the non-political?
 image: "https://www.underscoreblog.com/assets/img/dante1.jpg"

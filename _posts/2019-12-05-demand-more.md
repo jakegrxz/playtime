@@ -2,6 +2,7 @@
 layout: post
 title:  "Demand More: #GE2019 and the Politics of Surplus"
 category: archive
+tags: politics labour
 description:
 twitter-summary:
 image:

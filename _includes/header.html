@@ -48,6 +48,24 @@
       <h5 style="text-align:right">Support</h5>
       <div class="PC_boxes_text">All this writing is done for free. If you like the blog, please consider <a href="https://ko-fi.com/jakeunderscore">buying me a coffee</a> or <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEMKEL9GFNVCE">donating via PayPal</a>. It's massively appreciated! </div>
       <hr style="width:70%; text-align:right; margin-right: 0; color:gray">
+
+      <!-- tags menu -->
+
+      <div class="PC_boxes_text">
+        <h5 style="text-align:right">Tags</h5>
+        {% capture temptags %}
+          {% for tag in site.tags %}
+            {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+          {% endfor %}
+        {% endcapture %}
+        {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+        {% for temptag in sortedtemptags %}
+          {% assign tagitems = temptag | split: '#' %}
+          {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+          <a href="/tag/{{ tagname }}">{{ tagname }}</a> ({{tagitems[2]}})
+        {% endfor %}
+      </div>
+
     </div>
 
   </div>

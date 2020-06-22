@@ -17,7 +17,7 @@ layout: default
   </div>
 
 <br>
-
+  <p class="article_date">{{ page.date | date: "%-d %b %Y" }}</p>
   <header class="article_header">
     <h1 class="article_title" itemprop="name headline" style="text-align:center">{{ page.title }}</h1>
   </header>
@@ -26,23 +26,37 @@ layout: default
     {{ page.content }}
   </div>
 
-<br>
+<br><br>
 
   <footer class="article-footer">
-    <p class="article_meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">posted on {{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    <!-- {% include share.html %} -->
-  <!-- {% include author.html %} -->
-  </footer>
-  <br>
-  <p>If you enjoyed this post, subscribe below to receive email alerts of new posts: </p>
+    <div class="footer-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">posted on {{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+    </div>
+    <div class="footer-tags">
+      <b>Tags</b>&ensp;
+      <span>
+        {% for tag in page.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>&nbsp;
+        {% endfor %}
+      </span>
+    </div>
 
-  <div class="newsletter-container">
-      <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=underscoreblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-        <p><input class="newsletter-text" style="color:#000000; width:300px" type="text" name="email" placeholder="Email address"/></p>
-        <input type="hidden" value="underscoreblog" name="uri"/>
-        <input type="hidden" name="loc" value="en_US"/>
-        <input type="submit" id="newsletter-subscribe" value="Subscribe" /></form>
-  </div>
+  </footer>
+
+  <br>
+
+  <footer class="article-footer">
+    <p>If you enjoyed this post, subscribe below to receive email alerts of new posts, or <a href="https://ko-fi.com/jakeunderscore">buy me a coffee here</a>: </p>
+    <div class="newsletter-container">
+        <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=underscoreblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+          <p><input class="newsletter-text" style="color:#000000; width:300px" type="text" name="email" placeholder="Email address"/></p>
+          <input type="hidden" value="underscoreblog" name="uri"/>
+          <input type="hidden" name="loc" value="en_US"/>
+          <input type="submit" id="newsletter-subscribe-post" value="Subscribe" /></form>
+    </div>
+  </footer>
+  <br><br>
 
   {% include dq.html %}
 
