@@ -10,11 +10,13 @@ permalink: /about/
 
 \__underscore is the blog of Jake Underscore, a writer and human currently based in South East London. Expect: philosophy, post-punk, popular culture, politics, etc.
 
-I also run a newsletter that sends you good music/film/tv/literature/theory recommendations every other day in lockdown, called LOCKDOWNTIME. You can [check this out here.](https://playtime.substack.com/)
-
 **Twitter:** [@jake_underscore](https://twitter.com/jake_underscore)  
 **Email:** underscore.uuu[at]gmail.com
 
 **Design**  
 Fonts: [Work Sans](https://fonts.google.com/specimen/Work+Sans), [Office Code Pro Medium](https://github.com/nathco/Office-Code-Pro) (post titles)  
 Made in: Jekyll, using the [Simple](https://github.com/wild-flame/jekyll-simple) theme
+
+**Elsewhere**
+* During the lockdown that occurred to fight the Covid-19 crisis, I ran an email newsletter that sent out various tv/film/music/reading recs. The archive of this can be found [here.](https://playtime.substack.com/)
+* This blog was previously known as [PLAYTIME](https://play--time.blogspot.com/) before I moved the blog over here.
