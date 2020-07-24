@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-The good bits of cyberspace. Email me if you think there's anything I should add.  
+Fellow outsiders from the good bits of cyberspace. Email me if you think there's anything I should add.  
 (underscore.uuu[at]gmail.com)
 
 <br>
@@ -15,10 +15,13 @@ The good bits of cyberspace. Email me if you think there's anything I should add
 * [Abyss Diving](https://abyssdiving.wordpress.com/)
 * [Life Glug](https://lifeglug.wordpress.com/)
 * [Aloysius](https://aloysiusplace.blogspot.com/)
+* [The Real Movement](http://therealmovement.wordpress.com/)
 * [P s u e d o a n a l y s i s](https://psuedoanalysis.blogspot.com/)
-* [Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/)
+* [Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/) (Ed Berger's old blog)
+* [Reciprocal Contradiction](https://reciprocalcontradiction.home.blog/) (Ed Berger's current blog)
 * [blissblog](http://blissout.blogspot.com/)
 * [Robin Mackay](http://readthis.wtf/)
+* [Matthew Ingram/WOEBOT](http://www.woebot.com/)
 * [0AZ](http://zinzrinz.blogspot.com/) *(featuring an excellent [cyber-theory library](http://zinzrinz.blogspot.com/p/library.html))*
 * [k-punk](http://k-punk.abstractdynamics.org/)
 
@@ -35,6 +38,7 @@ The good bits of cyberspace. Email me if you think there's anything I should add
 * [Real Life](https://reallifemag.com/)
 * [Notes From Below](https://notesfrombelow.org/)
 * [FACT](https://www.factmag.com/)
+* [Vast Abrupt](https://vastabrupt.com/)
 
 **Aesthetics and Design**
 
