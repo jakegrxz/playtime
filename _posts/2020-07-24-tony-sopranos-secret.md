@@ -4,7 +4,7 @@ title:  "Tony Soprano's Secret"
 category: archive
 tags: television aesthetics psychoanalysis
 description:
-twitter-summary: Nothing happened to Tony Soprano.
+twitter-summary: Nothing happened to Tony Soprano, matter how much you will it otherwise.
 image: "https://www.underscoreblog.com/assets/img/sop1.jpg"
 ---
 
@@ -53,7 +53,7 @@ In analysing the show, therefore, our role becomes akin to that of Dr. Melfi wor
 *
 {:center}
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IKbamjdyw5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/IKbamjdyw5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 In the pilot of *The Sopranos*, Tony famously has a panic attack when a family of ducks, who have been living in his pool and he has taken a shine to, leave the pool for good, leading him to begin psychoanalytic therapy with Dr. Melfi. Later on in the episode, [in a session with her](https://www.youtube.com/watch?v=h2n9kEE9vBQ), discussing a dream Tony has where a duck flies off with his penis, the mysterious event -- the secret of the unconscious -- is cracked:
 
