@@ -8,13 +8,13 @@ permalink: /about/
 *1. to intensify, emphasise or accentuate. (verb)*    
 *2. a figure that makes "present" what was "absent", but only through maintaining an absence-in-a-presence, and a presence-in-an-absence. (e.g.: ___) (noun)*
 
-\__underscore is the blog of Jake Underscore, a writer and human currently based in South East London. Expect: philosophy, post-punk, popular culture, politics, etc.
+\__underscore is the blog of Jake Underscore, a writer currently based in South East London. Expect: philosophy, post-punk, popular culture, politics, etc.
 
-**Email:** underscore.uuu[at]gmail.com
-**Twitter:** [@jake_underscore](https://twitter.com/jake_underscore)
-**Facebook**: [underscore0](https://www.facebook.com/underscore0)
-**Mixcloud**: [\__underscore](https://www.mixcloud.com/jake_underscore/)
-**Bandcamp**: [jake_underscore](https://bandcamp.com/jake_underscore/)
+**Email:** underscore.uuu[at]gmail.com  
+**Twitter:** [@jake_underscore](https://twitter.com/jake_underscore)  
+**Facebook**: [underscore0](https://www.facebook.com/underscore0)  
+**Mixcloud**: [\__underscore](https://www.mixcloud.com/jake_underscore/)  
+**Bandcamp**: [jake_underscore](https://bandcamp.com/jake_underscore/)  
 
 **Design**  
 Fonts: [Work Sans](https://fonts.google.com/specimen/Work+Sans), [Office Code Pro Medium](https://github.com/nathco/Office-Code-Pro) (post titles)  
