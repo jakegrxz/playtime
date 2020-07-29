@@ -4,8 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-Fellow outsiders from the good bits of cyberspace. Email me if you think there's anything I should add.  
-(underscore.uuu[at]gmail.com)
+Fellow outsiders from the good bits of cyberspace. Email me if you think there's anything I should add. (underscore.uuu[at]gmail.com)
 
 <br>
 **Blogs + newsletters**
