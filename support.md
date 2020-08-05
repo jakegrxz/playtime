@@ -17,11 +17,12 @@ You can donate in two ways:
 If you've enjoyed any of the posts on this blog, you can also **subscribe to the blog** and receive email alerts whenever there is a new post published. To do this, fill in your email below:
 
 <div class="newsletter-container">
-    <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=underscoreblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+    <form class="newsletter-form" action="https://tinyletter.com/underscoreblog" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/underscoreblog', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
       <p><input class="newsletter-text" style="color:#000000; width:300px" type="text" name="email" placeholder="Email address" /></p>
       <input type="hidden" value="underscoreblog" name="uri"/>
       <input type="hidden" name="loc" value="en_US"/>
-      <input type="submit" id="newsletter-subscribe" value="Subscribe" /></form>
+      <input type="submit" id="newsletter-subscribe" value="Subscribe" />
+    </form>
 </div>
 <br>
 

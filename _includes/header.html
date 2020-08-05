@@ -22,6 +22,7 @@
           <li><a href="{{ "/designs"| prepend: site.baseurl }}">Designs</a></li>
           <li><a href="{{ "/support"| prepend: site.baseurl }}">Support</a></li>
           <li><a href="{{ "/links"| prepend: site.baseurl }}">Links</a></li>
+          <li><a href="{{ "/newsletter"| prepend: site.baseurl }}">Recs Newsletter</a></li>
           <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
         </ul>
       </nav>
@@ -35,7 +36,7 @@
       <div class="PC_boxes_text">Subscribe below to receive email updates whenever a new post is published.</div>
       <br>
       <div class="newsletter-container">
-          <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=underscoreblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+          <form class="newsletter-form" action="https://tinyletter.com/underscoreblog" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/underscoreblog', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
             <p><input class="newsletter-text" type="text" name="email" placeholder="Email address" /></p>
             <input type="hidden" value="underscoreblog" name="uri"/>
             <input type="hidden" name="loc" value="en_US"/>
@@ -51,7 +52,7 @@
 
       <!-- tags menu -->
 
-      <div class="PC_boxes_text">
+      <div class="PC_boxes_text" style="margin-left: 20%">
         <h5 style="text-align:right">Tags</h5>
         {% capture temptags %}
           {% for tag in site.tags %}

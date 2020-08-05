@@ -10,6 +10,7 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 **Blogs + newsletters**
 
 * [Xenogothic](https://xenogothic.com/)
+* [Quantized Crow](https://quantizedcrow.com/) (Nick)
 * [Feral Machines](http://feralmachin.es/)
 * [Abyss Diving](https://abyssdiving.wordpress.com/)
 * [Life Glug](https://lifeglug.wordpress.com/)
