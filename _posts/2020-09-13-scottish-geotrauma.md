@@ -2,7 +2,7 @@
 layout: post
 title: It’s after the end of the world, don’t you know that yet? (Dispatches on Scottish Geotrauma)
 category: archive
-tags: psychedelia surplus Ccru Nature eerie real-life
+tags: psychedelia surplus ccru Nature eerie real-life
 description:
 twitter-summary:
 image: "https://www.underscoreblog.com/assets/img/seacliff3.jpeg"
