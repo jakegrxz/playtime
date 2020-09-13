@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Ccru"
-tag: Ccru
+title: "Tag: Nature"
+tag: Nature
 robots: noindex
 ---

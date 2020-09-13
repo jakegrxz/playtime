@@ -2,7 +2,7 @@
 layout: post
 title:  "Theory-Fiction Radio"
 category: archive
-tags: music ccru theory-fiction
+tags: music Ccru theory-fiction
 description:
 twitter-summary:
 image:
