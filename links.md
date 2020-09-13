@@ -29,6 +29,7 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [roland barfs film diary](https://rolandbarfs.substack.com/)
 * [utopian drivel](https://huw.substack.com/)
 * [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) // *Great + accessible weekly newsletter on experimental and outsider music*
+* [The Anti-Apocalyptus Newsletter](https://antiapocalyptus.substack.com/)
 * [Another Subculture](http://anothersubculture.co.uk/) // *London's punk/DIY newsletter*
 
 **Journals/Mags**
