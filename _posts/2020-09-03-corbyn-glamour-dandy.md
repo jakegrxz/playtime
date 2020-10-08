@@ -33,7 +33,6 @@ Instead of continuing this negative trajectory through to its conclusion, howeve
 
 {:center: style="text-align: center"}
 ![](https://www.underscoreblog.com/assets/img/corb2.jpg)
-
 *Corbyn's signature and notorious fiddler cap, which was rarely seen after his election in 2015, and indeed was bought by Brian Eno at a Stop the War fundraiser in December of that year.*
 {:center}
 

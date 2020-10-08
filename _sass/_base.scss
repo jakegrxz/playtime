@@ -344,6 +344,8 @@ p {
   @media (min-width: 401px) { text-align: justify; }
    }
 
+   ::-moz-selection { background: #FF69B4; }
+   ::selection { background: #FF69B4; color: white;  }
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
