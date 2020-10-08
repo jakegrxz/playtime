@@ -5,7 +5,7 @@ category: archive
 tags: surplus aesthetics art politics communism
 description:
 twitter-summary: What can the Goldsmiths Carrots Fiasco teach us about two different strands of the Left?
-image: "https://www.underscoreblog.com/assets/img/carrots1.jpeg"
+image: "https://www.underscoreblog.com/assets/img/carrots1.jpg"
 ---
 
 {:center: style="text-align: center"}
@@ -35,6 +35,7 @@ The artists, however, famously thrive on such distanced territory. Artistic genr
 Now, it is worth stressing that neither of these modes are better or worse: they are simply different ways of responding to a shared situation, and both can (and indeed often do) work together very productively. Today, most musicians, artists, and writers are broadly left-wing and have great sympathy and admiration for the work of organisers, particularly in unions like UVW and IWGB (the former of which now has a branch for creative and design workers). Furthermore, some of the most visible union struggles in the UK and US recently have also been in the creative sector, such as workers at the Tate, National Theatre and Southbank Centre [striking over job losses two months ago](https://www.theguardian.com/uk-news/2020/aug/29/coronavirus-arts-workers-on-south-bank-in-london-rally-against-covid-job-cuts), or staff at both [Pitchfork](https://p4kunion.tumblr.com/) and [Vice](https://twitter.com/viceukunion) forming unions which have won recognition and new contracts, as well as doing [work stoppages](https://www.thedailybeast.com/pitchfork-staffers-stage-work-stoppage-in-protest-of-conde-nasts-union-busting).
 
 Simultaneously, however, such growing class consciousness among artists and creative workers does not seem to have been met with a growing "artistic" consciousness among activists on the Left. Indeed, for much of the contemporary "bread and butter" Left, the *avant-garde* is still something to be treated with suspicion: a pretentious, bourgeois plaything that is unnecessarily esoteric and detached from the everyday person's life and concerns. And this is where the carrots come in.
+<!--description-->
 
 <br>
 
