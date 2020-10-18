@@ -9,7 +9,6 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 <br>
 **Blogs + newsletters**
 
-* [Xenogothic](https://xenogothic.com/)
 * [Quantized Crow](https://quantizedcrow.com/) (Nick)
 * [Feral Machines](http://feralmachin.es/)
 * [Abyss Diving](https://abyssdiving.wordpress.com/)
@@ -19,16 +18,19 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [P s u e d o a n a l y s i s](https://psuedoanalysis.blogspot.com/)
 * [Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/) (Ed Berger's old blog)
 * [Reciprocal Contradiction](https://reciprocalcontradiction.home.blog/) (Ed Berger's current blog)
+* [Xenogothic](https://xenogothic.com/)
 * [blissblog](http://blissout.blogspot.com/)
 * [Robin Mackay](http://readthis.wtf/)
 * [Matthew Ingram/WOEBOT](http://www.woebot.com/)
+* [Specular Anomalies](https://distort.jp/)
+* [xenocx](https://xeno.cx/index.html)
 * [0AZ](http://zinzrinz.blogspot.com/) *(featuring an excellent [cyber-theory library](http://zinzrinz.blogspot.com/p/library.html))*
 * [k-punk](http://k-punk.abstractdynamics.org/)
 
 * [Utopia Deferred](https://utopiadeferred.substack.com/)
 * [roland barfs film diary](https://rolandbarfs.substack.com/)
 * [utopian drivel](https://huw.substack.com/)
-* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) // *Great + accessible weekly newsletter on experimental and outsider music*
+* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) // *Great newsletter on experimental and outsider music*
 * [The Anti-Apocalyptus Newsletter](https://antiapocalyptus.substack.com/)
 * [Another Subculture](http://anothersubculture.co.uk/) // *London's punk/DIY newsletter*
 
@@ -52,7 +54,7 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [Threads Radio](https://threadsradio.com/)
 * [RTM](https://rtm.fm/)
 * [NTS](https://www.nts.live/)
-* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/) (see above)
+* [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/)
 
 **Misc**
 * [BOOKS Peckham](https://books-peckham.com/) ([insta](https://www.instagram.com/bookspeckham/))
