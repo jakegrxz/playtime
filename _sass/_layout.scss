@@ -270,6 +270,12 @@ input#menu-toggle {
   @extend .dont-break-out;
 }
 
+div.post_excerpt {
+  .footnote,.footnotes,.marginnote {
+    display: none;
+  }
+}
+
 .post-list {
 
 }
