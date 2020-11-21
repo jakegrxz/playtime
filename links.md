@@ -11,6 +11,7 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 **Blogs + newsletters**
 
 * [Quantized Crow](https://quantizedcrow.com/) (Nick)
+* [The World Was Built Right Handed](https://theworldwasbuiltrighthanded.wordpress.com/) (Sam)
 * [Feral Machines](http://feralmachin.es/)
 * [Abyss Diving](https://abyssdiving.wordpress.com/)
 * [Life Glug](https://lifeglug.wordpress.com/)

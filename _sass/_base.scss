@@ -209,7 +209,8 @@
   .container {
     width: 100%;
     padding: 64px 32px;
-    hyphens: none; }
+    // hyphens: none;
+  }
 }
 
 /* For devices larger than 400px */
@@ -303,10 +304,10 @@ body {
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: -0.01rem;
   font-weight: 400;
-  -moz-hyphens:none;
-  -ms-hyphens:none;
-  -webkit-hyphens: none;
-  hyphens: none;
+  // -moz-hyphens:none;
+  // -ms-hyphens:none;
+  // -webkit-hyphens: none;
+  // hyphens: none;
 }
 
 
@@ -335,10 +336,10 @@ h6 { font-size: 1.1rem; line-height: 1.6;  letter-spacing: 0; }
 }
 
 p {
-  hyphens: none;
-  -moz-hyphens:none;
-  -ms-hyphens:none;
-  -webkit-hyphens: none;
+  // hyphens: none;
+  // -moz-hyphens:none;
+  // -ms-hyphens:none;
+  // -webkit-hyphens: none;
   margin-top: 0;
   @media (max-width: 400px) { text-align: left; }
   @media (min-width: 401px) { text-align: justify; }
