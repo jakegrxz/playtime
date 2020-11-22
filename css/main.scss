@@ -53,10 +53,10 @@ $on-laptop:        780px;
   word-wrap: break-word;
 
   /* Adds a hyphen where the word breaks */
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  hyphens: auto;
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  -moz-hyphens: manual;
+  hyphens: manual;
 
 }
 
@@ -67,5 +67,5 @@ $on-laptop:        780px;
         "color",
         "syntax-highlighting"
 ;
-// 
+//
 // @import "assets/fonts/IBM-Plex/css/ibm-plex";
