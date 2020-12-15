@@ -5,7 +5,7 @@ category: archive
 tags: politics labour Pop communism k-punk
 description:
 twitter-summary:
-image:
+image: "https://www.underscoreblog.com/assets/img/pop_labour_piece.jpg"
 ---
 {:center: style="text-align: center"}
 ![]({{ site.baseurl }}/assets/img/pop_labour_piece.jpg)
