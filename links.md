@@ -23,6 +23,7 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [Xenogothic](https://xenogothic.com/)
 * [blissblog](http://blissout.blogspot.com/)
 * [Robin Mackay](http://readthis.wtf/)
+* [Adam Elkus](https://aelkus.github.io/)
 * [Matthew Ingram/WOEBOT](http://www.woebot.com/)
 * [Specular Anomalies](https://distort.jp/)
 * [xenocx](https://xeno.cx/index.html)
@@ -57,6 +58,8 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [RTM](https://rtm.fm/)
 * [NTS](https://www.nts.live/)
 * [Tusk Is Better Than Rumours](https://tuskisbetter.substack.com/)
+* [The Music Journalism Insider](https://musicjournalism.substack.com/)
+* [Energy Flash](http://energyflashbysimonreynolds.blogspot.com/)
 
 **Misc**
 * [BOOKS Peckham](https://books-peckham.com/) ([insta](https://www.instagram.com/bookspeckham/))

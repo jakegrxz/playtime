@@ -29,7 +29,7 @@ A recurring theme throughout the book, expressed by countless bands cited within
 
 *James Chance and the Contortions*: Like other New York No Wave groups, gigs by the Contortions had a strong performance-art element, dedicated to involving audiences in them and thereby turning them into "happenings". This was partly driven by sensationalism and desire to grab press attention, and partly impelled by an avant-garde urge to deconstruct the performer/audience dichotomy. As Reynolds documents:
 
-Chance ... turned gigs into happenings by attacking the audience: jostling, slapping, legendarily grabbing a girl by the hair at one show and biting another woman 'on the tit' (or so he claimed in an interview). 'James was like a Jackson Pollock painting, such an explosive personality,' says Adele Bertei, Contortions' keyboard player. 'And he had a strong masochistic streak. So he'd jump into the crowd and start kissing some girl. The boyfriend would push him off and a fist-fight would ensue. Our bassist George Scott and me would leap offstage and get into the mêlée. Then we'd all get back on to the stage with blood running down our faces -- James being the worse for wear always because he'd get the brunt of it; plus he's so tiny.'
+>Chance ... turned gigs into happenings by attacking the audience: jostling, slapping, legendarily grabbing a girl by the hair at one show and biting another woman 'on the tit' (or so he claimed in an interview). 'James was like a Jackson Pollock painting, such an explosive personality,' says Adele Bertei, Contortions' keyboard player. 'And he had a strong masochistic streak. So he'd jump into the crowd and start kissing some girl. The boyfriend would push him off and a fist-fight would ensue. Our bassist George Scott and me would leap offstage and get into the mêlée. Then we'd all get back on to the stage with blood running down our faces -- James being the worse for wear always because he'd get the brunt of it; plus he's so tiny.'
 
 *Lydia Lunch: *Lunch played the role of self-described dictator of no wave band Teenage Jesus and the Jerks, recalling in the book how she would "literally beat [the other band members] with coat hangers if they made any mistakes at a gig. We rehearsed ad nauseam and were pretty fucking tight. It's pretty fascist sounding, and I was the fucking dictator." This demeanor was matched when performing live:*
 
@@ -63,10 +63,10 @@ This was, of course, evident in TG's music: cold, metallic, an assault on the se
 
 >Raised in Suffolk, but often mistaken for a working-class east London boy, Stevo was a fan of all kinds of weird music. Dismissing punk as 'just rock 'n' roll played badly ... not that revolutionary', he looked to more avant-garde or electronic outfits -- TG, Cabaret Voltaire, The Residents, Chrome, Metaboliste. He started out as a DJ, playing exactly this kind of non-crowd-pleasing material. 'I was more interested in terrorizing the dance floor. I used to go out just to fuck the audience's heads,' he says. (p.477)
 
+{:center}
 ![Image result for throbbing gristle](https://thevinylfactory.com/wp-content/uploads/2015/05/tgcover21-660x400.png)
-
-
-Throbbing Gristle
+*Throbbing Gristle*
+{:center}
 
 **Visionary (and egotistical) producers**
 
