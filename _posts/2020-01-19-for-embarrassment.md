@@ -2,7 +2,7 @@
 layout: post
 title:  "For and Through Embarrassment"
 category: archive
-tags: k-punk academia
+tags: k-punk academia philosophy ccru
 description:
 twitter-summary:
 image:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tony Soprano's Secret"
 category: archive
-tags: television aesthetics psychoanalysis
+tags: television aesthetics psychoanalysis philosophy
 description:
 twitter-summary: Nothing happened to Tony Soprano, matter how much you will it otherwise.
 image: "https://www.underscoreblog.com/assets/img/sop1.jpg"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Exiting The Academic: Thoughts On Objectivity and the Neurotic-Perfectionist Drive"
 category: archive
-tags: academia writing
+tags: academia writing philosophy
 description:
 twitter-summary:
 image:

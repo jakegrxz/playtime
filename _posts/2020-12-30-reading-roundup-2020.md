@@ -2,14 +2,14 @@
 layout: post
 title: "The __underscore 2020 Reading Roundup"
 category: archive
-tags: music writing art politics communism language literature film k-punk post-punk real-life psychoanalysis SF horror criticism God religion feminism modernism sex
+tags: music writing art politics philosophy communism language literature film k-punk post-punk real-life psychoanalysis SF horror criticism God religion feminism modernism sex
 description:
 twitter-summary:
 image: "https://www.underscoreblog.com/assets/img/ellissitzky1.jpg"
 ---
 
 {:center: style="text-align: center"}
-![](/assets/img/ellissitzky1.jpg)
+![](https://www.underscoreblog.com/assets/img/ellissitzky1.jpg)
 {:center}
 <br>
 I may as well begin this roundup with a frank admission: at the beginning of this year, I did not know how to read.
@@ -37,7 +37,7 @@ When one knows this, one knows how to read.
 * * *
 
 {:center: style="text-align: center"}
-![](/assets/img/fall_perverted.jpg)
+![](https://www.underscoreblog.com/assets/img/fall_perverted.jpg)
 {:center}
 
 **Music and Post-Punk**
@@ -130,7 +130,7 @@ Accordingly, it is precisely the question of *practice* that the readings above 
 * * *
 
 {:center: style="text-align: center"}
-![](/assets/img/atrocity_cover.jpg)
+![](https://www.underscoreblog.com/assets/img/atrocity_cover.jpg)
 {:center}
 
 **The Ballard-Spinoza Flatline**
@@ -187,7 +187,7 @@ Virginia Woolf, *The Waves*
 * * *
 
 {:center: style="text-align: center"}
-![](/assets/img/ordinary_people.jpg)
+![](https://www.underscoreblog.com/assets/img/ordinary_people.jpg)
 {:center}
 
 **Psychoanalysis, Sex**
@@ -302,7 +302,7 @@ Lemmy and Kriss do nothing less than weave a kind of poetics of the present; the
 * * *
 
 {:center: style="text-align: center"}
-![](/assets/img/RojavaJosh.png)
+![](https://www.underscoreblog.comhttps://www.underscoreblog.com/assets/img/RojavaJosh.png)
 {:center}
 
 **RIP Josh**

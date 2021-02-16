@@ -20,7 +20,6 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [P s u e d o a n a l y s i s](https://psuedoanalysis.blogspot.com/)
 * [Deterritorial Investigations](https://deterritorialinvestigations.wordpress.com/) (Ed Berger's old blog)
 * [Reciprocal Contradiction](https://reciprocalcontradiction.home.blog/) (Ed Berger's current blog)
-* [Xenogothic](https://xenogothic.com/)
 * [blissblog](http://blissout.blogspot.com/)
 * [Robin Mackay](http://readthis.wtf/)
 * [Adam Elkus](https://aelkus.github.io/)
@@ -30,6 +29,8 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [0AZ](http://zinzrinz.blogspot.com/) *(featuring an excellent [cyber-theory library](http://zinzrinz.blogspot.com/p/library.html))*
 * [k-punk](http://k-punk.abstractdynamics.org/)
 
+* [Astral Codex Ten](https://astralcodexten.substack.com/)
+* [Unconsciousness Raising](https://hhnnccnnll.substack.com/)
 * [Utopia Deferred](https://utopiadeferred.substack.com/)
 * [roland barfs film diary](https://rolandbarfs.substack.com/)
 * [utopian drivel](https://huw.substack.com/)
