@@ -9,7 +9,7 @@ image: "https://www.underscoreblog.com/assets/img/lowry1.jpg"
 ---
 
 {:center: style="text-align: center"}
-![](https://www.underscoreblog.com/assets/img/assets/img/lowry1.jpg)
+![](https://www.underscoreblog.com/assets/img/lowry1.jpg)
 {:center}
 
 >People wearing ornaments and fancy clothes,  
