@@ -2,10 +2,10 @@
 layout: page
 title: Links
 permalink: /links/
-twitter-summary: Fellow outsiders from the good bits of cyberspace. Email me if you think there's anything I should add.
+twitter-summary: Fellow outsiders from the good bits of cyberspace. Email me if you think there's anything  that should be added.
 ---
 
-Fellow outsiders from the good bits of cyberspace. Email me if you think there's anything I should add. (underscore.uuu[at]gmail.com)
+Fellow outsiders from the good bits of cyberspace. Email me if you think there's anything that should be added. (underscore.uuu[at]gmail.com)
 
 <br>
 **Blogs + newsletters**
@@ -38,7 +38,7 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [The Anti-Apocalyptus Newsletter](https://antiapocalyptus.substack.com/)
 * [Another Subculture](http://anothersubculture.co.uk/) // *London's punk/DIY newsletter*
 
-**Journals/Mags**
+**Journals/Mags/Zines**
 * [The Quietus](https://thequietus.com/)
 * [New Socialist](https://newsocialist.org.uk/)
 * [Pinko](https://pinko.online/)
@@ -46,6 +46,7 @@ Fellow outsiders from the good bits of cyberspace. Email me if you think there's
 * [Notes From Below](https://notesfrombelow.org/)
 * [FACT](https://www.factmag.com/)
 * [Vast Abrupt](https://vastabrupt.com/)
+* [Weird Walk](https://www.weirdwalk.co.uk/)
 
 **Aesthetics and Design**
 

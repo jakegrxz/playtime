@@ -2,7 +2,7 @@
 layout: post
 title: "Common Folk"
 category: archive
-tags: politics communism k-punk philosophy community real-life friendship religion
+tags: politics communism k-punk philosophy community real-life friendship religion class
 description:
 twitter-summary:
 image: "https://www.underscoreblog.com/assets/img/lowry1.jpg"

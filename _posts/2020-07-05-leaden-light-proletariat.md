@@ -2,7 +2,7 @@
 layout: post
 title:  "Leaden Light of the Proletariat: Beckett and Working-Class Politics"
 category: archive
-tags: politics eerie communism aesthetics literature philosophy
+tags: politics eerie communism aesthetics literature philosophy class
 description:
 twitter-summary: Samuel Beckett's works, far from being merely aesthetic matters, can have significant uses for a working-class politics.
 image: "https://www.underscoreblog.com/assets/img/rothkodark.jpg"

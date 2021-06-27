@@ -2,7 +2,7 @@
 layout: post
 title:  Corbyn, Glamour, and the Working-Class Dandy
 category: archive
-tags: politics labour k-punk glamour surplus fashion aesthetics
+tags: politics labour k-punk glamour surplus fashion aesthetics class
 description:
 twitter-summary:
 image: "https://www.underscoreblog.com/assets/img/modsquad.jpg"

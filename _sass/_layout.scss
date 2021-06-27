@@ -13,7 +13,7 @@ body {
     min-height:100%;
     box-sizing: border-box;
     height:auto;
-    padding-bottom: 100px;/*等于或略大于footer的高度*/
+    // padding-bottom: 100px;/*等于或略大于footer的高度*/
 
     a {
       color: #FF69B4;
@@ -34,7 +34,7 @@ body {
 }
 
 .site-footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   padding-bottom: 0rem;
   width:100%;
