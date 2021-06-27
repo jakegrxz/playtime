@@ -9,7 +9,7 @@ image: "https://www.underscoreblog.com/assets/img/malevich0.jpg"
 ---
 
 {:center: style="text-align: center"}
-![](/assets/img/malevich0.jpg)
+![](https://www.underscoreblog.com/assets/img/malevich0.jpg)
 {:center}
 
 <br>
