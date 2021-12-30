@@ -2,7 +2,7 @@
 layout: post
 title: "The underscore__ 2020 Reading Roundup"
 category: archive
-tags: music writing art politics philosophy communism language literature film k-punk post-punk real-life psychoanalysis SF horror criticism God religion feminism modernism sex
+tags: music writing art politics philosophy communism language literature film k-punk post-punk real-life psychoanalysis SF horror criticism God religion feminism modernism sex round-up
 description:
 twitter-summary:
 image: "https://www.underscoreblog.com/assets/img/ellissitzky1.jpg"
